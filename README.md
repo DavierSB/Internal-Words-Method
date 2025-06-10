@@ -1,2 +1,2 @@
 # Internal-Words-Method
-A new Scrabble Move Generation Algorithm
+The code will be uploaded soon, for now, the document
