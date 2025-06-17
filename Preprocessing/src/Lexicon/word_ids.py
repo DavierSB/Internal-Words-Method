@@ -15,7 +15,7 @@ def preprocess(language, letters_data):
     word_ids = bidict.bidict()
     
     word_ids[""] = 0
-    for letter, idx in letters_data["letter_ids"].items():
+    for letter, idx in letters_data.items():
         if letter == "#":
             continue
         word_ids[letter] = idx
