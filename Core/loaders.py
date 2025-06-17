@@ -9,7 +9,7 @@ to_load = {
         "letter_values",
         "letter_frequencies",
         "word_ids",
-]
+],
 }
 
 for module, all_data in to_load.items():
